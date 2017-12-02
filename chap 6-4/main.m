@@ -6,6 +6,9 @@
 //  Copyright © 2017 Rodney Kahane. All rights reserved.
 //
 
+//macmini to git test commit
+
+
 #import <Foundation/Foundation.h>
 
 @interface TextCalc:NSObject
